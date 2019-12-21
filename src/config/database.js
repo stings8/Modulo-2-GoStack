@@ -5,7 +5,7 @@ module.exports = {
   password: 'postgres',
   database: 'gobarber',
   define: {
-    timestamp: true,
+    timestamps: true,
     underscored: true,
     underscoredAll: true,
   },
